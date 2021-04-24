@@ -1,0 +1,4 @@
+Comming back from a deletion
+recommend not to do a checkout with out a commit
+that could delete, modify or move information between branches
+
